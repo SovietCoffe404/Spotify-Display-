@@ -12,10 +12,10 @@
 #define TFT_SCLK 4
 #define TFT_MOSI 5
 
-char* SSID = "Sanchecitos";
-const char* PASSWORD = "Tonot05H0m3";
-const char* CLIENT_ID = "9220302da5f84f708339bb0fde624068";
-const char* CLIENT_SECRET = "dfc8ec50c53d4609b5a471f85add30e1";
+char* SSID = "Your Wi-fi SSID";
+const char* PASSWORD = "Your Wi-fi password";
+const char* CLIENT_ID = "Client ID";
+const char* CLIENT_SECRET = "Client Secret";
 
 String lastArtist;
 String lastTrackname;
