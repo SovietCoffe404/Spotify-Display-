@@ -13,6 +13,6 @@ https://www.autodesk.com/mx/products/fusion-360/choose-usage
 
 https://www.arduino.cc/en/software/
 
+<img width="1919" height="943" alt="Screenshot 2026-04-08 204140" src="https://github.com/user-attachments/assets/fbffe5d1-4631-4ade-97ec-de1543a154f2" />
 
-
-
+<img width="1919" height="994" alt="Screenshot 2026-04-09 105228" src="https://github.com/user-attachments/assets/dffc9ef2-ad18-4014-86a1-07c788899cad" />
