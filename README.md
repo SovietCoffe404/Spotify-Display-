@@ -18,3 +18,5 @@ https://www.arduino.cc/en/software/
 <img width="1919" height="994" alt="Screenshot 2026-04-09 105228" src="https://github.com/user-attachments/assets/dffc9ef2-ad18-4014-86a1-07c788899cad" />
 
 <img width="1918" height="1005" alt="Screenshot 2026-04-13 202437" src="https://github.com/user-attachments/assets/d834d413-ae09-41bb-8330-84078918280b" />
+
+<img width="1920" height="1080" alt="Spotify Display Case (1)" src="https://github.com/user-attachments/assets/9595b476-ad48-4e15-9966-4483da076e4a" />
